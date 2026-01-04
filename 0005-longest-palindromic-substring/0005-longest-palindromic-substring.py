@@ -1,10 +1,5 @@
 class Solution(object):
     def longestPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-
         def expandCenterOdd(index):
             i = index - 1
             j = index + 1
@@ -31,9 +26,7 @@ class Solution(object):
                 i -= 1
                 j += 1
             return palindrome
-
             
-        
         max_palindrome = s[0]
 
         for i in range(len(s)):
