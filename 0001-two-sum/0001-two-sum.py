@@ -9,10 +9,12 @@ class Solution(object):
         n = len(nums)
 
         for i in range(n):
-            numMap[nums[i]] = i
+            map[nums[i]] = i
         
         for i in range(n):
+            #Calculate complement to reduce calculations
+            comp = target - nums[i]
             #Ensure that we are not self-referencing
-            if (target - nums[i]) in map and map[target - nums[i]] != i:
-                return [i, map[target - nums[i]]]
+            if (comp) in map and map[comp] != i:
+                return [i, map[comp]]
         return []
