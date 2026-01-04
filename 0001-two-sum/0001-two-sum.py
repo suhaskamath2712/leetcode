@@ -5,14 +5,14 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        rlist = []
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if j != i and nums[i] + nums[j] == target:
-                    rlist.append(i)
-                    rlist.append(j)
-                    break
-            if len(rlist) != 0:
-                break
+        map = {}
+        n = len(nums)
+
+        for i in range(n):
+            numMap[nums[i]] = i
         
-        return rlist
+        for i in range(n):
+            #Ensure that we are not self-referencing
+            if (target - nums[i]) in map and map[target - nums[i]] != i:
+                return [i, map[target - nums[i]]]
+        return []
