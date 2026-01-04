@@ -43,5 +43,3 @@ class Solution(object):
             max_palindrome = temp if len(temp) > len(max_palindrome) else max_palindrome
         
         return max_palindrome
-
-        
