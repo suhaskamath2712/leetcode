@@ -1,17 +1,17 @@
 class Solution {
     public int getMinDistance(int[] nums, int target, int start)
     {
-        short minleft = Short.MAX_VALUE, minright = Short.MAX_VALUE;
+        int minleft = Integer.MAX_VALUE, minright = Integer.MAX_VALUE;
 
         //Left Search
-        for (short i = (short) start; i >= 0 && minleft == Short.MAX_VALUE; i--)
+        for (int i = start; i >= 0 && minleft == Integer.MAX_VALUE; i--)
             if (nums[i] == target)
-                minleft = (short) (start - i);
+                minleft = start - i;
 
         //Right Search
-        for (short i = (short) start; i < nums.length && minright == Short.MAX_VALUE; i++)
+        for (int i = start; i < nums.length && minright == Integer.MAX_VALUE; i++)
             if (nums[i] == target)
-                minright = (short) (i - start);
+                minright = i - start;
 
         return (minleft < minright) ? minleft : minright;
     }
