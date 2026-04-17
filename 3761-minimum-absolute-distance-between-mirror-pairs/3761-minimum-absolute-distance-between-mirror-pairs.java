@@ -25,9 +25,6 @@ class Solution
                 minDist = Math.min(minDist, i - map.get(nums[i]));
             
             map.put(reverse(nums[i]),i);
-
-            if (minDist == 1)
-                return 1;
         }
 
         if (minDist == Integer.MAX_VALUE)
