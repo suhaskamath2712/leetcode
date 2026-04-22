@@ -1,7 +1,7 @@
 class Solution {
     public int minimumChairs(String s)
     {
-        int freeChairs = 0, totalChairs = 0;
+        byte freeChairs = 0, totalChairs = 0;
 
         for (int i = 0; i < s.length(); i++)
         {
@@ -15,6 +15,6 @@ class Solution {
                 freeChairs++;
         }
 
-        return totalChairs;
+        return (int) totalChairs;
     }
 }
