@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/suhaskamath2712/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suhaskamath2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suhaskamath2712/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suhaskamath2712/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/suhaskamath2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suhaskamath2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/suhaskamath2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 | [2716-minimize-string-length](https://github.com/suhaskamath2712/leetcode/tree/master/2716-minimize-string-length) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3488-closest-equal-element-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/suhaskamath2712/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0917-reverse-only-letters](https://github.com/suhaskamath2712/leetcode/tree/master/0917-reverse-only-letters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suhaskamath2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suhaskamath2712/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suhaskamath2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2716-minimize-string-length](https://github.com/suhaskamath2712/leetcode/tree/master/2716-minimize-string-length) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 ## Queue
 |  |
 | ------- |
