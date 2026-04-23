@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/suhaskamath2712/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0917-reverse-only-letters](https://github.com/suhaskamath2712/leetcode/tree/master/0917-reverse-only-letters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suhaskamath2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/suhaskamath2712/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suhaskamath2712/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suhaskamath2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
