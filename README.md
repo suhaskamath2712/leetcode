@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/suhaskamath2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suhaskamath2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/suhaskamath2712/leetcode/tree/master/2615-sum-of-distances) |
+| [2765-longest-alternating-subarray](https://github.com/suhaskamath2712/leetcode/tree/master/2765-longest-alternating-subarray) |
 | [3033-modify-the-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/3033-modify-the-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/suhaskamath2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2765-longest-alternating-subarray](https://github.com/suhaskamath2712/leetcode/tree/master/2765-longest-alternating-subarray) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Prefix Sum
 |  |
