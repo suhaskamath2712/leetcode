@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suhaskamath2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/suhaskamath2712/leetcode/tree/master/2615-sum-of-distances) |
 | [3033-modify-the-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/3033-modify-the-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/suhaskamath2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3488-closest-equal-element-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/suhaskamath2712/leetcode/tree/master/2615-sum-of-distances) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/suhaskamath2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Simulation
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3033-modify-the-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/3033-modify-the-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/suhaskamath2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Trie
 |  |
 | ------- |
