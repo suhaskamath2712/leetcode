@@ -9,9 +9,8 @@ class Solution {
             for (int j = 1; j < dp[0].length; j++)
             {
                 dp[i][j] = grid[i-1][j-1] + dp[i-1][j] + dp[i][j-1]- dp[i-1][j-1];
-
-                if (dp[i][j] <= k)
-                    count++;
+                if (dp[i][j] <= k) count++;
+                else break;
             }
         }
 
