@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suhaskamath2712/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/suhaskamath2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suhaskamath2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/suhaskamath2712/leetcode/tree/master/2615-sum-of-distances) |
 | [3033-modify-the-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/3033-modify-the-matrix) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
+| [2615-sum-of-distances](https://github.com/suhaskamath2712/leetcode/tree/master/2615-sum-of-distances) |
 | [2716-minimize-string-length](https://github.com/suhaskamath2712/leetcode/tree/master/2716-minimize-string-length) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3488-closest-equal-element-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/suhaskamath2712/leetcode/tree/master/2615-sum-of-distances) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Simulation
 |  |
