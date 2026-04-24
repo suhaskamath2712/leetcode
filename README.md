@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/suhaskamath2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/suhaskamath2712/leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0900-rle-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0900-rle-iterator) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/suhaskamath2712/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0900-rle-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0900-rle-iterator) |
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 ## Queue
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0900-rle-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0900-rle-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0900-rle-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0900-rle-iterator) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2833-furthest-point-from-origin](https://github.com/suhaskamath2712/leetcode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
