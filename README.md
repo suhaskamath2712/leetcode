@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/suhaskamath2712/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suhaskamath2712/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suhaskamath2712/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/suhaskamath2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suhaskamath2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2615-sum-of-distances](https://github.com/suhaskamath2712/leetcode/tree/master/2615-sum-of-distances) |
 | [2716-minimize-string-length](https://github.com/suhaskamath2712/leetcode/tree/master/2716-minimize-string-length) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1387-sort-integers-by-the-power-value](https://github.com/suhaskamath2712/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2463-minimum-total-distance-traveled](https://github.com/suhaskamath2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Stack
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suhaskamath2712/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Enumeration
 |  |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/suhaskamath2712/leetcode/tree/master/0258-add-digits) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/suhaskamath2712/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Number Theory
 |  |
@@ -271,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-count-monobit-integers](https://github.com/suhaskamath2712/leetcode/tree/master/3827-count-monobit-integers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
