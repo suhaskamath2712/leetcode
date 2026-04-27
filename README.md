@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/suhaskamath2712/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3492-maximum-containers-on-a-ship](https://github.com/suhaskamath2712/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suhaskamath2712/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
