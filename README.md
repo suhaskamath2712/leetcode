@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suhaskamath2712/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/suhaskamath2712/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/suhaskamath2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [3290-maximum-multiplication-score](https://github.com/suhaskamath2712/leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/suhaskamath2712/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3033-modify-the-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/3033-modify-the-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/suhaskamath2712/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Trie
 |  |
 | ------- |
