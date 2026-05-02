@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/suhaskamath2712/leetcode/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
+| [0788-rotated-digits](https://github.com/suhaskamath2712/leetcode/tree/master/0788-rotated-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/suhaskamath2712/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/suhaskamath2712/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/suhaskamath2712/leetcode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/suhaskamath2712/leetcode/tree/master/0788-rotated-digits) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/suhaskamath2712/leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suhaskamath2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1387-sort-integers-by-the-power-value](https://github.com/suhaskamath2712/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
