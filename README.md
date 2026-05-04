@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suhaskamath2712/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/suhaskamath2712/leetcode/tree/master/0048-rotate-image) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0391-perfect-rectangle](https://github.com/suhaskamath2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/suhaskamath2712/leetcode/tree/master/0396-rotate-function) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/suhaskamath2712/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suhaskamath2712/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/suhaskamath2712/leetcode/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/suhaskamath2712/leetcode/tree/master/0258-add-digits) |
 | [0391-perfect-rectangle](https://github.com/suhaskamath2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/suhaskamath2712/leetcode/tree/master/0396-rotate-function) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suhaskamath2712/leetcode/tree/master/0048-rotate-image) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
