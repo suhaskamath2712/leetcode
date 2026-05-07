@@ -325,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/suhaskamath2712/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/suhaskamath2712/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
