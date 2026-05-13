@@ -188,16 +188,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suhaskamath2712/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suhaskamath2712/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0690-employee-importance](https://github.com/suhaskamath2712/leetcode/tree/master/0690-employee-importance) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suhaskamath2712/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0341-flatten-nested-list-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0690-employee-importance](https://github.com/suhaskamath2712/leetcode/tree/master/0690-employee-importance) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suhaskamath2712/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Greedy
 |  |
