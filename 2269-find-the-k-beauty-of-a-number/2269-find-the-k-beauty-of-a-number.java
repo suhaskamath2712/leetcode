@@ -7,9 +7,6 @@ class Solution {
         while (num >= mod/10)
         {
             int k_gram = num%mod;
-
-            System.out.println(k_gram);
-
             if (k_gram != 0 && NUMFINAL%k_gram == 0)
                 beauty++;
             
