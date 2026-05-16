@@ -1,18 +1,21 @@
 class Solution {
     public int divisorSubstrings(int num, int k)
     {
-        List<Integer> k_grams = new ArrayList<>();
-        String num_str = Integer.toString(num);
+        int mod = (int) Math.pow(10,k), beauty = 0;
+        final int NUMFINAL = num;
 
-        for (int i = 0; i < num_str.length() + 1 - k; i++)
-            k_grams.add(Integer.parseInt(num_str.substring(i,i+k)));
+        while (num >= mod/10)
+        {
+            int k_gram = num%mod;
 
-        int beauty = 0;
+            System.out.println(k_gram);
 
-        for (int k_gram : k_grams)
-            if (k_gram != 0 && num % k_gram == 0)
+            if (k_gram != 0 && NUMFINAL%k_gram == 0)
                 beauty++;
-        
+            
+            num /= 10;
+        }
+
         return beauty;
     }
 }
