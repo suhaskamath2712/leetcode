@@ -6,8 +6,6 @@ class Solution {
 
         for (int i = 0; i < num_str.length() + 1 - k; i++)
             k_grams.add(Integer.parseInt(num_str.substring(i,i+k)));
-        
-        System.out.println(k_grams);
 
         int beauty = 0;
 
