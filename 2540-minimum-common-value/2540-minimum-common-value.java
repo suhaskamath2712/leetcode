@@ -7,9 +7,9 @@ class Solution {
         {
             if (nums1[i1] == nums2[i2])
                 return nums1[i1];
-            if (nums1[i1] < nums2[i2])
+            while (i1 < nums1.length && i2 < nums2.length && nums1[i1] < nums2[i2])
                 i1++;
-            else
+            while (i1 < nums1.length && i2 < nums2.length && nums1[i1] > nums2[i2])
                 i2++;
         }
         return -1;
