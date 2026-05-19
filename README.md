@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/suhaskamath2712/leetcode/tree/master/0258-add-digits) |
 | [0391-perfect-rectangle](https://github.com/suhaskamath2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/suhaskamath2712/leetcode/tree/master/0396-rotate-function) |
+| [0441-arranging-coins](https://github.com/suhaskamath2712/leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0788-rotated-digits](https://github.com/suhaskamath2712/leetcode/tree/master/0788-rotated-digits) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhaskamath2712/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suhaskamath2712/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0436-find-right-interval](https://github.com/suhaskamath2712/leetcode/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/suhaskamath2712/leetcode/tree/master/0441-arranging-coins) |
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/suhaskamath2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suhaskamath2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
