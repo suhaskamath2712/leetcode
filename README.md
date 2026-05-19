@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suhaskamath2712/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/suhaskamath2712/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/suhaskamath2712/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/suhaskamath2712/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/suhaskamath2712/leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/suhaskamath2712/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/suhaskamath2712/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/suhaskamath2712/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 | [2336-smallest-number-in-infinite-set](https://github.com/suhaskamath2712/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/suhaskamath2712/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/suhaskamath2712/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2833-furthest-point-from-origin](https://github.com/suhaskamath2712/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Breadth-First Search
 |  |
