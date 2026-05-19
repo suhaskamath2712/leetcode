@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suhaskamath2712/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/suhaskamath2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suhaskamath2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/suhaskamath2712/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suhaskamath2712/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/suhaskamath2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2611-mice-and-cheese](https://github.com/suhaskamath2712/leetcode/tree/master/2611-mice-and-cheese) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 | [2336-smallest-number-in-infinite-set](https://github.com/suhaskamath2712/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2540-minimum-common-value](https://github.com/suhaskamath2712/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/suhaskamath2712/leetcode/tree/master/2615-sum-of-distances) |
 | [2716-minimize-string-length](https://github.com/suhaskamath2712/leetcode/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/suhaskamath2712/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/suhaskamath2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suhaskamath2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/suhaskamath2712/leetcode/tree/master/2540-minimum-common-value) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suhaskamath2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/suhaskamath2712/leetcode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suhaskamath2712/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/suhaskamath2712/leetcode/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
