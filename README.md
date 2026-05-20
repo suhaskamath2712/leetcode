@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/suhaskamath2712/leetcode/tree/master/2611-mice-and-cheese) |
 | [2615-sum-of-distances](https://github.com/suhaskamath2712/leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2751-robot-collisions](https://github.com/suhaskamath2712/leetcode/tree/master/2751-robot-collisions) |
 | [2765-longest-alternating-subarray](https://github.com/suhaskamath2712/leetcode/tree/master/2765-longest-alternating-subarray) |
 | [2784-check-if-array-is-good](https://github.com/suhaskamath2712/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3033-modify-the-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/3033-modify-the-matrix) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2463-minimum-total-distance-traveled](https://github.com/suhaskamath2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2611-mice-and-cheese](https://github.com/suhaskamath2712/leetcode/tree/master/2611-mice-and-cheese) |
+| [2751-robot-collisions](https://github.com/suhaskamath2712/leetcode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/suhaskamath2712/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suhaskamath2712/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/suhaskamath2712/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0636-exclusive-time-of-functions](https://github.com/suhaskamath2712/leetcode/tree/master/0636-exclusive-time-of-functions) |
+| [2751-robot-collisions](https://github.com/suhaskamath2712/leetcode/tree/master/2751-robot-collisions) |
 ## Tree
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/suhaskamath2712/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suhaskamath2712/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2751-robot-collisions](https://github.com/suhaskamath2712/leetcode/tree/master/2751-robot-collisions) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/suhaskamath2712/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Number Theory
 |  |
