@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/suhaskamath2712/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/suhaskamath2712/leetcode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2864-maximum-odd-binary-number](https://github.com/suhaskamath2712/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3492-maximum-containers-on-a-ship](https://github.com/suhaskamath2712/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
