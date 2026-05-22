@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/suhaskamath2712/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 | [2188-minimum-time-to-finish-the-race](https://github.com/suhaskamath2712/leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/suhaskamath2712/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/suhaskamath2712/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suhaskamath2712/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suhaskamath2712/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suhaskamath2712/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/suhaskamath2712/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/suhaskamath2712/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2573-find-the-string-with-lcp](https://github.com/suhaskamath2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2611-mice-and-cheese](https://github.com/suhaskamath2712/leetcode/tree/master/2611-mice-and-cheese) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/suhaskamath2712/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/suhaskamath2712/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2336-smallest-number-in-infinite-set](https://github.com/suhaskamath2712/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2611-mice-and-cheese](https://github.com/suhaskamath2712/leetcode/tree/master/2611-mice-and-cheese) |
