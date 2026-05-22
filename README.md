@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/suhaskamath2712/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/suhaskamath2712/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/suhaskamath2712/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/suhaskamath2712/leetcode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2864-maximum-odd-binary-number](https://github.com/suhaskamath2712/leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/suhaskamath2712/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suhaskamath2712/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/suhaskamath2712/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2463-minimum-total-distance-traveled](https://github.com/suhaskamath2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2611-mice-and-cheese](https://github.com/suhaskamath2712/leetcode/tree/master/2611-mice-and-cheese) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suhaskamath2712/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suhaskamath2712/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/suhaskamath2712/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2573-find-the-string-with-lcp](https://github.com/suhaskamath2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2611-mice-and-cheese](https://github.com/suhaskamath2712/leetcode/tree/master/2611-mice-and-cheese) |
