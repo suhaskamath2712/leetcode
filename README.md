@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 | [2336-smallest-number-in-infinite-set](https://github.com/suhaskamath2712/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2540-minimum-common-value](https://github.com/suhaskamath2712/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/suhaskamath2712/leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/suhaskamath2712/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/suhaskamath2712/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suhaskamath2712/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/suhaskamath2712/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/suhaskamath2712/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/suhaskamath2712/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/suhaskamath2712/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2833-furthest-point-from-origin](https://github.com/suhaskamath2712/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/suhaskamath2712/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
