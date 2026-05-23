@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suhaskamath2712/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suhaskamath2712/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/suhaskamath2712/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/suhaskamath2712/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suhaskamath2712/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3488-closest-equal-element-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suhaskamath2712/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/suhaskamath2712/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3713-longest-balanced-substring-i](https://github.com/suhaskamath2712/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suhaskamath2712/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
