@@ -10,8 +10,6 @@ class Solution {
             i++;
         }
 
-        System.out.println(sum);
-
         i++;
 
         while (i < nums.length)
@@ -19,8 +17,6 @@ class Solution {
             sum -= nums[i];
             i++;
         }
-
-        System.out.println(sum);
 
         if (sum > 0)   return 0;
         if (sum < 0)   return 1;
