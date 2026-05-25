@@ -10,10 +10,6 @@ class Solution {
         for (int i = 0; i <= nums.length - k; i++)
         {
             int diff = nums[i+k-1] - nums[i];
-            
-            if (diff == 0)
-                return 0;
-            
             minDiff = minDiff > diff ? diff : minDiff;
         }
 
