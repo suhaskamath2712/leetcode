@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/suhaskamath2712/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/suhaskamath2712/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/suhaskamath2712/leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2451-odd-string-difference](https://github.com/suhaskamath2712/leetcode/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suhaskamath2712/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/suhaskamath2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/suhaskamath2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/suhaskamath2712/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/suhaskamath2712/leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2451-odd-string-difference](https://github.com/suhaskamath2712/leetcode/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suhaskamath2712/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/suhaskamath2712/leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/suhaskamath2712/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suhaskamath2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Counting
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/suhaskamath2712/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/suhaskamath2712/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/suhaskamath2712/leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2833-furthest-point-from-origin](https://github.com/suhaskamath2712/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/suhaskamath2712/leetcode/tree/master/3713-longest-balanced-substring-i) |
