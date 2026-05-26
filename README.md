@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/suhaskamath2712/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suhaskamath2712/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/suhaskamath2712/leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/suhaskamath2712/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/suhaskamath2712/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/suhaskamath2712/leetcode/tree/master/0258-add-digits) |
 | [0391-perfect-rectangle](https://github.com/suhaskamath2712/leetcode/tree/master/0391-perfect-rectangle) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/suhaskamath2712/leetcode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhaskamath2712/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/suhaskamath2712/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/suhaskamath2712/leetcode/tree/master/0067-add-binary) |
 | [0917-reverse-only-letters](https://github.com/suhaskamath2712/leetcode/tree/master/0917-reverse-only-letters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suhaskamath2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1348-tweet-counts-per-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suhaskamath2712/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/suhaskamath2712/leetcode/tree/master/0258-add-digits) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suhaskamath2712/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1914-cyclically-rotating-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suhaskamath2712/leetcode/tree/master/0067-add-binary) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/suhaskamath2712/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3827-count-monobit-integers](https://github.com/suhaskamath2712/leetcode/tree/master/3827-count-monobit-integers) |
