@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/suhaskamath2712/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/suhaskamath2712/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0623-add-one-row-to-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/suhaskamath2712/leetcode/tree/master/0690-employee-importance) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/suhaskamath2712/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/suhaskamath2712/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0623-add-one-row-to-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/suhaskamath2712/leetcode/tree/master/0690-employee-importance) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/suhaskamath2712/leetcode/tree/master/1306-jump-game-iii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhaskamath2712/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/suhaskamath2712/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0623-add-one-row-to-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/suhaskamath2712/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/suhaskamath2712/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/suhaskamath2712/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0623-add-one-row-to-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0690-employee-importance](https://github.com/suhaskamath2712/leetcode/tree/master/0690-employee-importance) |
 | [1306-jump-game-iii](https://github.com/suhaskamath2712/leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/suhaskamath2712/leetcode/tree/master/1345-jump-game-iv) |
