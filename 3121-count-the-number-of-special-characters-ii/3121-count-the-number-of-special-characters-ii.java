@@ -1,41 +1,20 @@
 class Solution {
-    public int numberOfSpecialChars(String word)
-    {
-        byte[] letters = new byte[26];
+    public int numberOfSpecialChars(String word) {
+        boolean[][] A = new boolean[2][27];
 
-        //0: letter has not appeared in string
-        //1: lowercase letter has appeared -> next appearance may be uppercase/lowercase
-        //2: uppercase letter has appeared -> next appearance can only be uppercase
-        //-1 screwed
+        for (int i = 0; i < word.length(); i++) {
+            char ch = word.charAt(i);
+            int idx = ch & 31;
+            int Case = (ch >> 5) & 1;
 
-        for (char c : word.toCharArray())
-        {
-            boolean isLower = (c >= 'a');
-            int idx = isLower ? c - 'a' : c - 'A';
-
-            if (letters[idx] == -1)
-                continue;
-
-            //Lowercase char that had never appeared
-            if (isLower && letters[idx] == 0)
-                letters[idx] = 1;
-            
-            //Lowercase char that is appearing after an uppercase char
-            //Uppercase char showing up before lowercase counterpart
-            else if ((isLower && letters[idx] == 2) || (!isLower && letters[idx] == 0))
-                letters[idx] = -1;
-
-            //Uppercase char showing after lowercase counterpart (valid)
-            else if (!isLower && letters[idx] == 1)
-                letters[idx] = 2;
+            A[Case][idx] = Case == 0 || !A[0][idx];
         }
 
-        int count = 0;
+        int res = 0;
+        for (int i = 1; i < 27; i++)
+            if (A[0][i] && A[1][i])
+                res++;
 
-        for (byte b : letters)
-            if (b == 2)
-                count++;
-        
-        return count;
+        return res;
     }
 }
