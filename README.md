@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/suhaskamath2712/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/suhaskamath2712/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/suhaskamath2712/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/suhaskamath2712/leetcode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhaskamath2712/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suhaskamath2712/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/suhaskamath2712/leetcode/tree/master/0189-rotate-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suhaskamath2712/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/suhaskamath2712/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/suhaskamath2712/leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/suhaskamath2712/leetcode/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/suhaskamath2712/leetcode/tree/master/0189-rotate-array) |
 | [0917-reverse-only-letters](https://github.com/suhaskamath2712/leetcode/tree/master/0917-reverse-only-letters) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/suhaskamath2712/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/suhaskamath2712/leetcode/tree/master/0075-sort-colors) |
 | [0436-find-right-interval](https://github.com/suhaskamath2712/leetcode/tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
