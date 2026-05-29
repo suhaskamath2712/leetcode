@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suhaskamath2712/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suhaskamath2712/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/suhaskamath2712/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3637-trionic-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3637-trionic-array-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/suhaskamath2712/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3731-find-missing-elements](https://github.com/suhaskamath2712/leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/suhaskamath2712/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
