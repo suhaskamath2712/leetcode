@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3208-alternating-groups-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3208-alternating-groups-ii) |
 | [3290-maximum-multiplication-score](https://github.com/suhaskamath2712/leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suhaskamath2712/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3379-transformed-array](https://github.com/suhaskamath2712/leetcode/tree/master/3379-transformed-array) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/suhaskamath2712/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/suhaskamath2712/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/suhaskamath2712/leetcode/tree/master/2751-robot-collisions) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/suhaskamath2712/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3379-transformed-array](https://github.com/suhaskamath2712/leetcode/tree/master/3379-transformed-array) |
 | [3614-process-string-with-special-operations-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
 |  |
