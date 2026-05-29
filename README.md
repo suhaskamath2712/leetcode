@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3208-alternating-groups-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3208-alternating-groups-ii) |
 | [3290-maximum-multiplication-score](https://github.com/suhaskamath2712/leetcode/tree/master/3290-maximum-multiplication-score) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suhaskamath2712/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/suhaskamath2712/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/suhaskamath2712/leetcode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2864-maximum-odd-binary-number](https://github.com/suhaskamath2712/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3102-minimize-manhattan-distances](https://github.com/suhaskamath2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suhaskamath2712/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3492-maximum-containers-on-a-ship](https://github.com/suhaskamath2712/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suhaskamath2712/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
