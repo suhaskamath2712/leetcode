@@ -1,14 +1,14 @@
 class Solution {
     public int repeatedNTimes(int[] nums)
     {
-        boolean[] attendance = new boolean[10001];
+        HashSet<Integer> set = new HashSet<>();
 
         for (int num : nums)
         {
-            if (attendance[num])
+            if (set.contains(num))
                 return num;
             
-            attendance[num] = true;
+            set.add(num);
         }    
 
         return -1;
