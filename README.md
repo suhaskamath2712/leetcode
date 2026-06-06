@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/suhaskamath2712/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/suhaskamath2712/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3861-minimum-capacity-box](https://github.com/suhaskamath2712/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/suhaskamath2712/leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Hash Table
 |  |
