@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/suhaskamath2712/leetcode/tree/master/0733-flood-fill) |
 | [0781-rabbits-in-forest](https://github.com/suhaskamath2712/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/suhaskamath2712/leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0819-most-common-word](https://github.com/suhaskamath2712/leetcode/tree/master/0819-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/suhaskamath2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-rle-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0900-rle-iterator) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/suhaskamath2712/leetcode/tree/master/0690-employee-importance) |
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0781-rabbits-in-forest](https://github.com/suhaskamath2712/leetcode/tree/master/0781-rabbits-in-forest) |
+| [0819-most-common-word](https://github.com/suhaskamath2712/leetcode/tree/master/0819-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/suhaskamath2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suhaskamath2712/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhaskamath2712/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/suhaskamath2712/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/suhaskamath2712/leetcode/tree/master/0067-add-binary) |
+| [0819-most-common-word](https://github.com/suhaskamath2712/leetcode/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/suhaskamath2712/leetcode/tree/master/0917-reverse-only-letters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suhaskamath2712/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suhaskamath2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/suhaskamath2712/leetcode/tree/master/0819-most-common-word) |
 | [0900-rle-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0900-rle-iterator) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1400-construct-k-palindrome-strings](https://github.com/suhaskamath2712/leetcode/tree/master/1400-construct-k-palindrome-strings) |
