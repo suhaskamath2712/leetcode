@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1306-jump-game-iii](https://github.com/suhaskamath2712/leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/suhaskamath2712/leetcode/tree/master/1345-jump-game-iv) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/suhaskamath2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/suhaskamath2712/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1348-tweet-counts-per-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/suhaskamath2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1387-sort-integers-by-the-power-value](https://github.com/suhaskamath2712/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suhaskamath2712/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/suhaskamath2712/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/suhaskamath2712/leetcode/tree/master/0819-most-common-word) |
 | [0900-rle-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0900-rle-iterator) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/suhaskamath2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1400-construct-k-palindrome-strings](https://github.com/suhaskamath2712/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/suhaskamath2712/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/suhaskamath2712/leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/suhaskamath2712/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suhaskamath2712/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/suhaskamath2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/suhaskamath2712/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
