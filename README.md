@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/suhaskamath2712/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suhaskamath2712/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/suhaskamath2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/suhaskamath2712/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suhaskamath2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/suhaskamath2712/leetcode/tree/master/1861-rotating-the-box) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suhaskamath2712/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/suhaskamath2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/suhaskamath2712/leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/suhaskamath2712/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suhaskamath2712/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [1348-tweet-counts-per-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/suhaskamath2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/suhaskamath2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suhaskamath2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2055-plates-between-candles](https://github.com/suhaskamath2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/suhaskamath2712/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/suhaskamath2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1387-sort-integers-by-the-power-value](https://github.com/suhaskamath2712/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suhaskamath2712/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/suhaskamath2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/suhaskamath2712/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suhaskamath2712/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/suhaskamath2712/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suhaskamath2712/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/suhaskamath2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/suhaskamath2712/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suhaskamath2712/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suhaskamath2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -515,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/suhaskamath2712/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/suhaskamath2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/suhaskamath2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/suhaskamath2712/leetcode/tree/master/1871-jump-game-vii) |
 | [2055-plates-between-candles](https://github.com/suhaskamath2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/suhaskamath2712/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
