@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/suhaskamath2712/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/suhaskamath2712/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/suhaskamath2712/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/suhaskamath2712/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/suhaskamath2712/leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Hash Table
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/suhaskamath2712/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3614-process-string-with-special-operations-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/suhaskamath2712/leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3838-weighted-word-mapping](https://github.com/suhaskamath2712/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/suhaskamath2712/leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Sliding Window
 |  |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/suhaskamath2712/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3838-weighted-word-mapping](https://github.com/suhaskamath2712/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
