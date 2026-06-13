@@ -9,7 +9,7 @@ class Solution {
             for (char c : word.toCharArray())
                 score += weights[c-'a'];
 
-            res += (char) ('a' + 25 - (score%26));
+            res += (char) ('z' - (score%26));
         }
 
         return res;
