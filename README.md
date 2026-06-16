@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/suhaskamath2712/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/suhaskamath2712/leetcode/tree/master/0228-summary-ranges) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/suhaskamath2712/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suhaskamath2712/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/suhaskamath2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/suhaskamath2712/leetcode/tree/master/0396-rotate-function) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/suhaskamath2712/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0781-rabbits-in-forest](https://github.com/suhaskamath2712/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
