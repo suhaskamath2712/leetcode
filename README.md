@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/suhaskamath2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/suhaskamath2712/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suhaskamath2712/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/suhaskamath2712/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1622-fancy-sequence](https://github.com/suhaskamath2712/leetcode/tree/master/1622-fancy-sequence) |
