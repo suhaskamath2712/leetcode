@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/suhaskamath2712/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/suhaskamath2712/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/suhaskamath2712/leetcode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2864-maximum-odd-binary-number](https://github.com/suhaskamath2712/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/suhaskamath2712/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/suhaskamath2712/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/suhaskamath2712/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2188-minimum-time-to-finish-the-race](https://github.com/suhaskamath2712/leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/suhaskamath2712/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/suhaskamath2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/suhaskamath2712/leetcode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1622-fancy-sequence](https://github.com/suhaskamath2712/leetcode/tree/master/1622-fancy-sequence) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suhaskamath2712/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
@@ -777,4 +780,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/suhaskamath2712/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Combinatorics
+|  |
+| ------- |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
