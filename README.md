@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/suhaskamath2712/leetcode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/suhaskamath2712/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0436-find-right-interval](https://github.com/suhaskamath2712/leetcode/tree/master/0436-find-right-interval) |
+| [0621-task-scheduler](https://github.com/suhaskamath2712/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/suhaskamath2712/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suhaskamath2712/leetcode/tree/master/0049-group-anagrams) |
 | [0380-insert-delete-getrandom-o1](https://github.com/suhaskamath2712/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/suhaskamath2712/leetcode/tree/master/0391-perfect-rectangle) |
+| [0621-task-scheduler](https://github.com/suhaskamath2712/leetcode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0690-employee-importance](https://github.com/suhaskamath2712/leetcode/tree/master/0690-employee-importance) |
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suhaskamath2712/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/suhaskamath2712/leetcode/tree/master/0075-sort-colors) |
 | [0436-find-right-interval](https://github.com/suhaskamath2712/leetcode/tree/master/0436-find-right-interval) |
+| [0621-task-scheduler](https://github.com/suhaskamath2712/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suhaskamath2712/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/suhaskamath2712/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0621-task-scheduler](https://github.com/suhaskamath2712/leetcode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0781-rabbits-in-forest](https://github.com/suhaskamath2712/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -700,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/suhaskamath2712/leetcode/tree/master/0621-task-scheduler) |
 | [0819-most-common-word](https://github.com/suhaskamath2712/leetcode/tree/master/0819-most-common-word) |
 | [0900-rle-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0900-rle-iterator) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -770,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/suhaskamath2712/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/suhaskamath2712/leetcode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/suhaskamath2712/leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/suhaskamath2712/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
