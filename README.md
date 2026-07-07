@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/suhaskamath2712/leetcode/tree/master/0010-regular-expression-matching) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/suhaskamath2712/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/suhaskamath2712/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1400-construct-k-palindrome-strings](https://github.com/suhaskamath2712/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/suhaskamath2712/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/suhaskamath2712/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/suhaskamath2712/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/suhaskamath2712/leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/suhaskamath2712/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/suhaskamath2712/leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/suhaskamath2712/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suhaskamath2712/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/suhaskamath2712/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/suhaskamath2712/leetcode/tree/master/2069-walking-robot-simulation-ii) |
