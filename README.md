@@ -839,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/suhaskamath2712/leetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/suhaskamath2712/leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/suhaskamath2712/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1757-recyclable-and-low-fat-products](https://github.com/suhaskamath2712/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Segment Tree
 |  |
