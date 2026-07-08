@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/suhaskamath2712/leetcode/tree/master/0690-employee-importance) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/suhaskamath2712/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/suhaskamath2712/leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/suhaskamath2712/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/suhaskamath2712/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/suhaskamath2712/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/suhaskamath2712/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/suhaskamath2712/leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1306-jump-game-iii](https://github.com/suhaskamath2712/leetcode/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/suhaskamath2712/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/suhaskamath2712/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/suhaskamath2712/leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/suhaskamath2712/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/suhaskamath2712/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
