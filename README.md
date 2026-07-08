@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/suhaskamath2712/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/suhaskamath2712/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/suhaskamath2712/leetcode/tree/master/3861-minimum-capacity-box) |
+| [3875-construct-uniform-parity-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/suhaskamath2712/leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Hash Table
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/suhaskamath2712/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/suhaskamath2712/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
