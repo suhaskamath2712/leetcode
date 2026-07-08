@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/suhaskamath2712/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/suhaskamath2712/leetcode/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/suhaskamath2712/leetcode/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/suhaskamath2712/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/suhaskamath2712/leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/suhaskamath2712/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/suhaskamath2712/leetcode/tree/master/0068-text-justification) |
 | [0165-compare-version-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0165-compare-version-numbers) |
+| [0412-fizz-buzz](https://github.com/suhaskamath2712/leetcode/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/suhaskamath2712/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/suhaskamath2712/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/suhaskamath2712/leetcode/tree/master/0709-to-lower-case) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/suhaskamath2712/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/suhaskamath2712/leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/suhaskamath2712/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/suhaskamath2712/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/suhaskamath2712/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suhaskamath2712/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/suhaskamath2712/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
