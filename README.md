@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/suhaskamath2712/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/suhaskamath2712/leetcode/tree/master/3856-trim-trailing-vowels) |
+| [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/suhaskamath2712/leetcode/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 ## Sliding Window
 |  |
 | ------- |
