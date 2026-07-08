@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/suhaskamath2712/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/suhaskamath2712/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3765-complete-prime-number](https://github.com/suhaskamath2712/leetcode/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/suhaskamath2712/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/suhaskamath2712/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/suhaskamath2712/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/suhaskamath2712/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3765-complete-prime-number](https://github.com/suhaskamath2712/leetcode/tree/master/3765-complete-prime-number) |
 | [3827-count-monobit-integers](https://github.com/suhaskamath2712/leetcode/tree/master/3827-count-monobit-integers) |
 ## Prefix Sum
 |  |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suhaskamath2712/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3765-complete-prime-number](https://github.com/suhaskamath2712/leetcode/tree/master/3765-complete-prime-number) |
 ## Union-Find
 |  |
 | ------- |
