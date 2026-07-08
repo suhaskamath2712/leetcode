@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3861-minimum-capacity-box](https://github.com/suhaskamath2712/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/suhaskamath2712/leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/suhaskamath2712/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/suhaskamath2712/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suhaskamath2712/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/suhaskamath2712/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Enumeration
 |  |
 | ------- |
