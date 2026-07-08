@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-complete-prime-number](https://github.com/suhaskamath2712/leetcode/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/suhaskamath2712/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/suhaskamath2712/leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Recursion
 |  |
 | ------- |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/suhaskamath2712/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/suhaskamath2712/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/suhaskamath2712/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/suhaskamath2712/leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Divide and Conquer
 |  |
 | ------- |
