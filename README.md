@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/suhaskamath2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/suhaskamath2712/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/suhaskamath2712/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1734-decode-xored-permutation](https://github.com/suhaskamath2712/leetcode/tree/master/1734-decode-xored-permutation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suhaskamath2712/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1833-maximum-ice-cream-bars](https://github.com/suhaskamath2712/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suhaskamath2712/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/suhaskamath2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1734-decode-xored-permutation](https://github.com/suhaskamath2712/leetcode/tree/master/1734-decode-xored-permutation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/suhaskamath2712/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/suhaskamath2712/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
