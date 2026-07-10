@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-minimum-cost-to-reach-every-position](https://github.com/suhaskamath2712/leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/suhaskamath2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/suhaskamath2712/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/suhaskamath2712/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/suhaskamath2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/suhaskamath2712/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/suhaskamath2712/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/suhaskamath2712/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/suhaskamath2712/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/suhaskamath2712/leetcode/tree/master/2540-minimum-common-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/suhaskamath2712/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3290-maximum-multiplication-score](https://github.com/suhaskamath2712/leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/suhaskamath2712/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/suhaskamath2712/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suhaskamath2712/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3102-minimize-manhattan-distances](https://github.com/suhaskamath2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/suhaskamath2712/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suhaskamath2712/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3634-minimum-removals-to-balance-array](https://github.com/suhaskamath2712/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3731-find-missing-elements](https://github.com/suhaskamath2712/leetcode/tree/master/3731-find-missing-elements) |
@@ -613,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/suhaskamath2712/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/suhaskamath2712/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suhaskamath2712/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/suhaskamath2712/leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
@@ -792,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/suhaskamath2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3528-unit-conversion-i](https://github.com/suhaskamath2712/leetcode/tree/master/3528-unit-conversion-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/suhaskamath2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/suhaskamath2712/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -818,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/suhaskamath2712/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/suhaskamath2712/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3827-count-monobit-integers](https://github.com/suhaskamath2712/leetcode/tree/master/3827-count-monobit-integers) |
 ## Heap (Priority Queue)
