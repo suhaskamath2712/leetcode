@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/suhaskamath2712/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/suhaskamath2712/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2101-detonate-the-maximum-bombs](https://github.com/suhaskamath2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2685-count-the-number-of-complete-components](https://github.com/suhaskamath2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3528-unit-conversion-i](https://github.com/suhaskamath2712/leetcode/tree/master/3528-unit-conversion-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/suhaskamath2712/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/suhaskamath2712/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/suhaskamath2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/suhaskamath2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/suhaskamath2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Geometry
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2059-minimum-operations-to-convert-number](https://github.com/suhaskamath2712/leetcode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/suhaskamath2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2685-count-the-number-of-complete-components](https://github.com/suhaskamath2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3528-unit-conversion-i](https://github.com/suhaskamath2712/leetcode/tree/master/3528-unit-conversion-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suhaskamath2712/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/suhaskamath2712/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/suhaskamath2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2685-count-the-number-of-complete-components](https://github.com/suhaskamath2712/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3528-unit-conversion-i](https://github.com/suhaskamath2712/leetcode/tree/master/3528-unit-conversion-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/suhaskamath2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
