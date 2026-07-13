@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/suhaskamath2712/leetcode/tree/master/1291-sequential-digits) |
 | [2765-longest-alternating-subarray](https://github.com/suhaskamath2712/leetcode/tree/master/2765-longest-alternating-subarray) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suhaskamath2712/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3127-make-a-square-with-the-same-color](https://github.com/suhaskamath2712/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
