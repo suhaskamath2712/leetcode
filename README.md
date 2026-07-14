@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3208-alternating-groups-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3208-alternating-groups-ii) |
 | [3290-maximum-multiplication-score](https://github.com/suhaskamath2712/leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suhaskamath2712/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suhaskamath2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/suhaskamath2712/leetcode/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/suhaskamath2712/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/suhaskamath2712/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3102-minimize-manhattan-distances](https://github.com/suhaskamath2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suhaskamath2712/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suhaskamath2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/suhaskamath2712/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3492-maximum-containers-on-a-ship](https://github.com/suhaskamath2712/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/suhaskamath2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/suhaskamath2712/leetcode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3290-maximum-multiplication-score](https://github.com/suhaskamath2712/leetcode/tree/master/3290-maximum-multiplication-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suhaskamath2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/suhaskamath2712/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/suhaskamath2712/leetcode/tree/master/1622-fancy-sequence) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suhaskamath2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suhaskamath2712/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3765-complete-prime-number](https://github.com/suhaskamath2712/leetcode/tree/master/3765-complete-prime-number) |
 ## Union-Find
