@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/suhaskamath2712/leetcode/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/suhaskamath2712/leetcode/tree/master/0917-reverse-only-letters) |
 | [0972-equal-rational-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0972-equal-rational-numbers) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/suhaskamath2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/suhaskamath2712/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suhaskamath2712/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suhaskamath2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/suhaskamath2712/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0636-exclusive-time-of-functions](https://github.com/suhaskamath2712/leetcode/tree/master/0636-exclusive-time-of-functions) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/suhaskamath2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suhaskamath2712/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suhaskamath2712/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/suhaskamath2712/leetcode/tree/master/2751-robot-collisions) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0781-rabbits-in-forest](https://github.com/suhaskamath2712/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/suhaskamath2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/suhaskamath2712/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1400-construct-k-palindrome-strings](https://github.com/suhaskamath2712/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/suhaskamath2712/leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -958,4 +961,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/suhaskamath2712/leetcode/tree/master/0796-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/suhaskamath2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
