@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/suhaskamath2712/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/suhaskamath2712/leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [1947-maximum-compatibility-score-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suhaskamath2712/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suhaskamath2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/suhaskamath2712/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1871-jump-game-vii](https://github.com/suhaskamath2712/leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/suhaskamath2712/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1947-maximum-compatibility-score-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/suhaskamath2712/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2188-minimum-time-to-finish-the-race](https://github.com/suhaskamath2712/leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/suhaskamath2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1734-decode-xored-permutation](https://github.com/suhaskamath2712/leetcode/tree/master/1734-decode-xored-permutation) |
+| [1947-maximum-compatibility-score-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/suhaskamath2712/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/suhaskamath2712/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -931,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhaskamath2712/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/suhaskamath2712/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1947-maximum-compatibility-score-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/suhaskamath2712/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Concurrency
 |  |
@@ -972,4 +976,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suhaskamath2712/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Bitmask
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
