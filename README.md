@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/suhaskamath2712/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/suhaskamath2712/leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/suhaskamath2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/suhaskamath2712/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/suhaskamath2712/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/suhaskamath2712/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/suhaskamath2712/leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suhaskamath2712/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/suhaskamath2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/suhaskamath2712/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/suhaskamath2712/leetcode/tree/master/1622-fancy-sequence) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suhaskamath2712/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
