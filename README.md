@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-count-the-number-of-ideal-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/suhaskamath2712/leetcode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2864-maximum-odd-binary-number](https://github.com/suhaskamath2712/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suhaskamath2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/suhaskamath2712/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/suhaskamath2712/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3102-minimize-manhattan-distances](https://github.com/suhaskamath2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/suhaskamath2712/leetcode/tree/master/2716-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/suhaskamath2712/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2864-maximum-odd-binary-number](https://github.com/suhaskamath2712/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suhaskamath2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suhaskamath2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/suhaskamath2712/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3093-longest-common-suffix-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/suhaskamath2712/leetcode/tree/master/2611-mice-and-cheese) |
 | [2864-maximum-odd-binary-number](https://github.com/suhaskamath2712/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/suhaskamath2712/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suhaskamath2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/suhaskamath2712/leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/suhaskamath2712/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
