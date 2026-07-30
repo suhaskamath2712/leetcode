@@ -1,0 +1,18 @@
+class Solution {
+    public int minimumPushes(String word)
+    {
+        byte[] freq = new byte[26];
+
+        for (char c : word.toCharArray())
+            freq[c-'a']++;
+
+        int cnt = 0;
+
+        Arrays.sort(freq);
+
+        for (int i = 0; i < 26; i++)
+            cnt += (i/8 + 1) * freq[26 - i - 1];
+        
+        return cnt;
+    }
+}
