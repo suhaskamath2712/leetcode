@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/suhaskamath2712/leetcode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/suhaskamath2712/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/suhaskamath2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suhaskamath2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/suhaskamath2712/leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0972-equal-rational-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0972-equal-rational-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/suhaskamath2712/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/suhaskamath2712/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/suhaskamath2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suhaskamath2712/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/suhaskamath2712/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1622-fancy-sequence](https://github.com/suhaskamath2712/leetcode/tree/master/1622-fancy-sequence) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/suhaskamath2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/suhaskamath2712/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1387-sort-integers-by-the-power-value](https://github.com/suhaskamath2712/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
+| [1406-stone-game-iii](https://github.com/suhaskamath2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1871-jump-game-vii](https://github.com/suhaskamath2712/leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/suhaskamath2712/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/suhaskamath2712/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/suhaskamath2712/leetcode/tree/master/1406-stone-game-iii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suhaskamath2712/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Quickselect
 |  |
