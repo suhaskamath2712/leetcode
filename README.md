@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/suhaskamath2712/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/suhaskamath2712/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suhaskamath2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suhaskamath2712/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3033-modify-the-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/3033-modify-the-matrix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suhaskamath2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/suhaskamath2712/leetcode/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/suhaskamath2712/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suhaskamath2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suhaskamath2712/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suhaskamath2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/suhaskamath2712/leetcode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/suhaskamath2712/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/suhaskamath2712/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suhaskamath2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3102-minimize-manhattan-distances](https://github.com/suhaskamath2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/suhaskamath2712/leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
