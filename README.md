@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimum-time-to-finish-the-race](https://github.com/suhaskamath2712/leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suhaskamath2712/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/suhaskamath2712/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/suhaskamath2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/suhaskamath2712/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2347-best-poker-hand](https://github.com/suhaskamath2712/leetcode/tree/master/2347-best-poker-hand) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/suhaskamath2712/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/suhaskamath2712/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2055-plates-between-candles](https://github.com/suhaskamath2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2166-design-bitset](https://github.com/suhaskamath2712/leetcode/tree/master/2166-design-bitset) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/suhaskamath2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/suhaskamath2712/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/suhaskamath2712/leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1348-tweet-counts-per-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/suhaskamath2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/suhaskamath2712/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3102-minimize-manhattan-distances](https://github.com/suhaskamath2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -958,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/suhaskamath2712/leetcode/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/suhaskamath2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suhaskamath2712/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
