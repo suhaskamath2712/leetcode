@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suhaskamath2712/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suhaskamath2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/suhaskamath2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suhaskamath2712/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suhaskamath2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/suhaskamath2712/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/suhaskamath2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/suhaskamath2712/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suhaskamath2712/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suhaskamath2712/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/suhaskamath2712/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/suhaskamath2712/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/suhaskamath2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/suhaskamath2712/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3208-alternating-groups-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3208-alternating-groups-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/suhaskamath2712/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
