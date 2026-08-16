@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suhaskamath2712/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/suhaskamath2712/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/suhaskamath2712/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2029-stone-game-ix](https://github.com/suhaskamath2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2055-plates-between-candles](https://github.com/suhaskamath2712/leetcode/tree/master/2055-plates-between-candles) |
 | [2059-minimum-operations-to-convert-number](https://github.com/suhaskamath2712/leetcode/tree/master/2059-minimum-operations-to-convert-number) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1840-maximum-building-height](https://github.com/suhaskamath2712/leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suhaskamath2712/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/suhaskamath2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suhaskamath2712/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/suhaskamath2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/suhaskamath2712/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/suhaskamath2712/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suhaskamath2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/suhaskamath2712/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/suhaskamath2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/suhaskamath2712/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suhaskamath2712/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/suhaskamath2712/leetcode/tree/master/2126-destroying-asteroids) |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/suhaskamath2712/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/suhaskamath2712/leetcode/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/suhaskamath2712/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/suhaskamath2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/suhaskamath2712/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2347-best-poker-hand](https://github.com/suhaskamath2712/leetcode/tree/master/2347-best-poker-hand) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/suhaskamath2712/leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -983,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/suhaskamath2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suhaskamath2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/suhaskamath2712/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/suhaskamath2712/leetcode/tree/master/2029-stone-game-ix) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suhaskamath2712/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Quickselect
 |  |
@@ -1047,15 +1052,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/suhaskamath2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/suhaskamath2712/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/suhaskamath2712/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/suhaskamath2712/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/suhaskamath2712/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/suhaskamath2712/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/suhaskamath2712/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/suhaskamath2712/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
