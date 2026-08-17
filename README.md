@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/suhaskamath2712/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3798-largest-even-number](https://github.com/suhaskamath2712/leetcode/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/suhaskamath2712/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/suhaskamath2712/leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/suhaskamath2712/leetcode/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
