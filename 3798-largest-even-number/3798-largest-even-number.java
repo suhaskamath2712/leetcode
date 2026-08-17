@@ -21,8 +21,6 @@ class Solution {
             }
         }
 
-        System.out.println(earlistIdx);
-
         if (earlistIdx != Integer.MIN_VALUE)
             return s.substring(0,earlistIdx+1);
         
