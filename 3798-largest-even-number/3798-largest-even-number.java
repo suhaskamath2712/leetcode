@@ -2,10 +2,7 @@ class Solution {
     public String largestEven(String s)
     {
         if ((s.charAt(s.length()-1) - '0') % 2 == 0)
-        {
-            System.out.println("here!");
             return s;
-        }
         
         if (s.length() == 1)
             return "";
