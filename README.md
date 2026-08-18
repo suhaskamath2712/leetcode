@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suhaskamath2712/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/suhaskamath2712/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/suhaskamath2712/leetcode/tree/master/3637-trionic-array-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/suhaskamath2712/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/suhaskamath2712/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suhaskamath2712/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/suhaskamath2712/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/suhaskamath2712/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/suhaskamath2712/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/suhaskamath2712/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/suhaskamath2712/leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Divide and Conquer
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/suhaskamath2712/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/suhaskamath2712/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suhaskamath2712/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/suhaskamath2712/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suhaskamath2712/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3634-minimum-removals-to-balance-array](https://github.com/suhaskamath2712/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/suhaskamath2712/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3731-find-missing-elements](https://github.com/suhaskamath2712/leetcode/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/suhaskamath2712/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suhaskamath2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
