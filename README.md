@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/suhaskamath2712/leetcode/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/suhaskamath2712/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suhaskamath2712/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suhaskamath2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suhaskamath2712/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/suhaskamath2712/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2716-minimize-string-length](https://github.com/suhaskamath2712/leetcode/tree/master/2716-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/suhaskamath2712/leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suhaskamath2712/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2864-maximum-odd-binary-number](https://github.com/suhaskamath2712/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suhaskamath2712/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/suhaskamath2712/leetcode/tree/master/2611-mice-and-cheese) |
 | [2751-robot-collisions](https://github.com/suhaskamath2712/leetcode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/suhaskamath2712/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suhaskamath2712/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/suhaskamath2712/leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suhaskamath2712/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
