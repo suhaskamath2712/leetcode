@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/suhaskamath2712/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/suhaskamath2712/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhaskamath2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/suhaskamath2712/leetcode/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suhaskamath2712/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suhaskamath2712/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suhaskamath2712/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
