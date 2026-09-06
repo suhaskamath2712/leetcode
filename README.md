@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suhaskamath2712/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/suhaskamath2712/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/suhaskamath2712/leetcode/tree/master/0068-text-justification) |
+| [0115-distinct-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0165-compare-version-numbers) |
 | [0412-fizz-buzz](https://github.com/suhaskamath2712/leetcode/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/suhaskamath2712/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suhaskamath2712/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/suhaskamath2712/leetcode/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/0115-distinct-subsequences) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/suhaskamath2712/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/suhaskamath2712/leetcode/tree/master/0396-rotate-function) |
