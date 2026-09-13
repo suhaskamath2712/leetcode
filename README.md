@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/suhaskamath2712/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/suhaskamath2712/leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0819-most-common-word](https://github.com/suhaskamath2712/leetcode/tree/master/0819-most-common-word) |
+| [0835-image-overlap](https://github.com/suhaskamath2712/leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/suhaskamath2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/suhaskamath2712/leetcode/tree/master/0877-stone-game) |
 | [0900-rle-iterator](https://github.com/suhaskamath2712/leetcode/tree/master/0900-rle-iterator) |
@@ -884,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/suhaskamath2712/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/suhaskamath2712/leetcode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/suhaskamath2712/leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/suhaskamath2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/suhaskamath2712/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
