@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suhaskamath2712/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0781-rabbits-in-forest](https://github.com/suhaskamath2712/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/suhaskamath2712/leetcode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/suhaskamath2712/leetcode/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/suhaskamath2712/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/suhaskamath2712/leetcode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suhaskamath2712/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/suhaskamath2712/leetcode/tree/master/0391-perfect-rectangle) |
+| [0836-rectangle-overlap](https://github.com/suhaskamath2712/leetcode/tree/master/0836-rectangle-overlap) |
 | [2101-detonate-the-maximum-bombs](https://github.com/suhaskamath2712/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/suhaskamath2712/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3102-minimize-manhattan-distances](https://github.com/suhaskamath2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
