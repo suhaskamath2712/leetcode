@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/suhaskamath2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suhaskamath2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/suhaskamath2712/leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1348-tweet-counts-per-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/suhaskamath2712/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1400-construct-k-palindrome-strings](https://github.com/suhaskamath2712/leetcode/tree/master/1400-construct-k-palindrome-strings) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/suhaskamath2712/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/suhaskamath2712/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/suhaskamath2712/leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suhaskamath2712/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suhaskamath2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/suhaskamath2712/leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/suhaskamath2712/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/suhaskamath2712/leetcode/tree/master/0441-arranging-coins) |
 | [0710-random-pick-with-blacklist](https://github.com/suhaskamath2712/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [1348-tweet-counts-per-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/1348-tweet-counts-per-frequency) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/suhaskamath2712/leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suhaskamath2712/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suhaskamath2712/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/suhaskamath2712/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1406-stone-game-iii](https://github.com/suhaskamath2712/leetcode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/suhaskamath2712/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/suhaskamath2712/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suhaskamath2712/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
