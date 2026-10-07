@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/suhaskamath2712/leetcode/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/0165-compare-version-numbers) |
+| [0301-remove-invalid-parentheses](https://github.com/suhaskamath2712/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/suhaskamath2712/leetcode/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/suhaskamath2712/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/suhaskamath2712/leetcode/tree/master/0657-robot-return-to-origin) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/suhaskamath2712/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/suhaskamath2712/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhaskamath2712/leetcode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/suhaskamath2712/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/suhaskamath2712/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/suhaskamath2712/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/suhaskamath2712/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -1108,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhaskamath2712/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0301-remove-invalid-parentheses](https://github.com/suhaskamath2712/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/suhaskamath2712/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1947-maximum-compatibility-score-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/suhaskamath2712/leetcode/tree/master/1980-find-unique-binary-string) |
