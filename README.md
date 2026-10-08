@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhaskamath2712/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suhaskamath2712/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suhaskamath2712/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/suhaskamath2712/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/suhaskamath2712/leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/suhaskamath2712/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/suhaskamath2712/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suhaskamath2712/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/suhaskamath2712/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/suhaskamath2712/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/suhaskamath2712/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/suhaskamath2712/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -1195,4 +1197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/suhaskamath2712/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suhaskamath2712/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/suhaskamath2712/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/suhaskamath2712/leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
