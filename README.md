@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/suhaskamath2712/leetcode/tree/master/2266-count-number-of-texts) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/suhaskamath2712/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/suhaskamath2712/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [2409-count-days-spent-together](https://github.com/suhaskamath2712/leetcode/tree/master/2409-count-days-spent-together) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/suhaskamath2712/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/suhaskamath2712/leetcode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2864-maximum-odd-binary-number](https://github.com/suhaskamath2712/leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suhaskamath2712/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2266-count-number-of-texts](https://github.com/suhaskamath2712/leetcode/tree/master/2266-count-number-of-texts) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/suhaskamath2712/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2409-count-days-spent-together](https://github.com/suhaskamath2712/leetcode/tree/master/2409-count-days-spent-together) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/suhaskamath2712/leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/suhaskamath2712/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2451-odd-string-difference](https://github.com/suhaskamath2712/leetcode/tree/master/2451-odd-string-difference) |
