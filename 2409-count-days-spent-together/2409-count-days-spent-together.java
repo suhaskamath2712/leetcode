@@ -22,9 +22,7 @@ class Solution
         }
 
         day += (dt.charAt(3)-'0')*10 + dt.charAt(4)-'0';
-
-        System.out.println(day);
-
+        
         return day;
         
     }
