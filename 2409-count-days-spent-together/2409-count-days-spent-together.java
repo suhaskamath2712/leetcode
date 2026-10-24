@@ -1,10 +1,10 @@
 class Solution
 {
-    private int day (String dt)
+    private short day (String dt)
     {
-        int day = 0;
+        short day = 0;
 
-        int month = (dt.charAt(0)-'0')*10 + dt.charAt(1)-'0';
+        byte month = (byte) ((dt.charAt(0)-'0')*10 + dt.charAt(1) -'0');
 
         switch(month)
         {
@@ -22,7 +22,7 @@ class Solution
         }
 
         day += (dt.charAt(3)-'0')*10 + dt.charAt(4)-'0';
-        
+
         return day;
         
     }
